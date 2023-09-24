@@ -52,6 +52,5 @@ INSERT INTO `profile` (`id_profile`, `id_user`, `jenis_kelamin`, `tempat_lahir`,
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `role`, `foto`, `remember_token`, `created_at`, `updated_at`) VALUES
 (1, 'admin', 'admin@mail.com', NULL, '$2y$10$N6nmGrHUtLAw5/5SlPZqEehn.S5KDNDFHf1yuW184mEw5zLWhVeLm', 'Administrator', '61b5cf20cb753.jpg', NULL, '2021-11-23 17:06:43', '2021-12-11 02:29:52'),
 (5, 'sam', 'sam@mail.com', NULL, '$2y$10$JqDSaIM2frvGqB92t7vIXeoDoJYzsUK5MKv4cLn9pzHa2BlL0Q6em', 'anggota', '63402ee4cdfcd.jpg', NULL, '2022-10-06 21:48:05', '2022-10-06 21:51:32'),
-(6, 'pustakawan', 'pustakawan@mail.com', NULL, '$2y$10$YEdrdLNSvtiGVNyL/zb8tuzaU7faiAsaBVSKhaE3TOBeCqw.QrDK.', 'pustakawan', '', NULL, '2022-10-06 22:48:19', '2022-10-06 22:48:19'),
-(7, 'Ratna', 'ratnajalil@gmail.com', NULL, '$2y$10$nx8qwuB/N9KMy8nwgsjYMeUjT38KTL.XAEXCQo3p83h2ioZm1Htgy', 'anggota', '', NULL, '2022-10-07 09:20:42', '2022-10-10 07:42:31');
+(6, 'pustakawan', 'pustakawan@mail.com', NULL, '$2y$10$YEdrdLNSvtiGVNyL/zb8tuzaU7faiAsaBVSKhaE3TOBeCqw.QrDK.', 'pustakawan', '', NULL, '2022-10-06 22:48:19', '2022-10-06 22:48:19');
 
